@@ -2,6 +2,6 @@
 
 ## 📚 Technologies:
 
-- Pyhton
+- Python
 - Pandas
 - Tkinter
